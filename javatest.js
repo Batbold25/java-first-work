@@ -165,16 +165,16 @@
 //     res += "* " //neg morond hechneen od bairlah ve gedeg utgiig haruulsan mor
 //   } console.log(res); 
 // }
-let number = prompt ("utga oruulah")
-let urjver = 0;
-let zereg = 0;
-if(number == 1 || number > 1000 ) {
-  console.log("blquu");
-}else {
-  while (urjver < 1000) {zereg++
-    urjver = number ** zereg  
-  } console.log(`${number} iin zereg ni ${zereg } buyu 1000 ih ${urjver} baina`);
-}
+// let number = prompt ("utga oruulah")
+// let urjver = 0;
+// let zereg = 0;
+// if(number == 1 || number > 1000 ) {
+//   console.log("blquu");
+// }else {
+//   while (urjver < 1000) {zereg++
+//     urjver = number ** zereg  
+//   } console.log(`${number} iin zereg ni ${zereg } buyu 1000 ih ${urjver} baina`);
+// }
 // let tegshToo = prompt ("1-1000 hurteleh toonii niilber")
 // while (too %= 0) {
   

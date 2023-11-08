@@ -21,7 +21,11 @@
 
 //-------------------------------------
 
-const numb = [ 10, 20, 30, 40, 50]
-numb.pop ();
-numb.push (30);
-console.log(numb);
+// const numb = [ 10, 20, 30, 40, 50]
+// numb.pop (); //suuliin geshuuniig hasaad
+// numb.push (30); // element oruulav
+// console.log(numb);
+
+//-------------------------------------
+
+const num = [ 2, -3, 5, 6, -8, 10]
