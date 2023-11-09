@@ -21,6 +21,30 @@
 
 //----------------------------------------
 
-function daraalal() {
-     
-}
+// function usguud(string) {
+//     let result = string[0]; // Initialize the result with the first character
+//     for (let i = 1; i < string.length; i++) {
+//         if (string[i] !== string[i - 1]) {
+//             result += string[i]; // Append the character to the result if it's different from the previous one
+//         }
+//     }
+//     return result;
+// }
+
+// const string = "aabbccd";
+// console.log(usguud(string));
+
+//----------------------------------------
+
+// function substituteX(x) {
+//     const uildel = x **2 + 5 * x +6;
+//     return uildel;
+// }
+// const xValue = 2; // X iin orond orluulah heseg
+// const uildel= substituteX(xValue);
+
+// console.log(`x iig ${xValue} r orloolhad hariu ni ${uildel}`);
+
+//----------------------------------------
+
+

@@ -28,4 +28,15 @@
 
 //-------------------------------------
 
-const num = [ 2, -3, 5, 6, -8, 10]
+// const num = [ 2, -3, 5, 6, -8, 10]
+// let sum = 0;
+// for(let i = 0; i < num.length; i++){ //num iin lenght 
+//     if (num[i] > 0 && num [i] % 2 == 0){ // numiin index utguud
+//         sum += num[i]
+//     }
+// } console.log(sum);
+
+//         MEDIUM         \\
+
+//-------------------------------------
+
