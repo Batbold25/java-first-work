@@ -176,7 +176,7 @@
 //   } console.log(`${number} iin zereg ni ${zereg } buyu 1000 ih ${urjver} baina`);
 // }
 // let tegshToo = prompt ("1-1000 hurteleh toonii niilber")
-// while (too %= 0) {
+// while (too %= 0) 8{
   
 // for ( let i = 1; i <10; i++){
 //   if(i == 5){

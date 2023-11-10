@@ -34,7 +34,7 @@
 
 //-------------------------------------
 
-// let number = 9; // utga avah heseg
+// let number = 2; // utga avah heseg
 // let urjver = 0;
 // let zereg = 0;
 // if(number == 1 || number > 1000 ) {
@@ -45,7 +45,6 @@
 //     urjver = number ** zereg  
 //   } console.log(`${number} iin  ${zereg } zereg ni 1000- aas ih baina ; ${urjver}`);
 // }
-
 //-------------------------------------
 
 
@@ -57,5 +56,5 @@
 
 //-------------------------------------
 
-const number = [2,3,4,5]
- for
+// const number = [2,3,4,5]
+//  for
